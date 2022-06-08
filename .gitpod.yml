@@ -5,6 +5,7 @@ tasks:
       nvm install lts/*
       npm install -g npm
       npm install -g @cloudflare/wrangler
+      npm install
 
 vscode:
   extensions:
