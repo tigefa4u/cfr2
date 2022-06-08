@@ -12,6 +12,8 @@ Make sure to add a `.env` file to the root directory for the `accessKeyId` and `
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tigefa4u/cfr2)
 
+---
+
 ## Demo
 
 Due to the nature of this proxying requests from a private bucket, this demo only supports GET requests. You can try getting from index.html, index2.html, or image.jpg
