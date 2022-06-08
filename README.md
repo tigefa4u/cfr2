@@ -8,6 +8,8 @@ To use this template in wrangler, run:
 
 Make sure to add a `.env` file to the root directory for the `accessKeyId` and `secretAccessKey` values in the `index.js` file.
 
+---
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tigefa4u/cfr2)
 
 ## Demo
